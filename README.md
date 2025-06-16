@@ -34,9 +34,9 @@ After Pressing "Solve" Button
 ---
 ## 🧠 Algorithms Used
 
--Backtracking: The solver checks each cell recursively by trying all valid digits.
--Skips pre-filled cells.
--Stops once the board is fully solved
+- Backtracking: The solver checks each cell recursively by trying all valid digits.
+- Skips pre-filled cells.
+- Stops once the board is fully solved
 
 ---
 
