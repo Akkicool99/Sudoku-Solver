@@ -1,4 +1,4 @@
-# 🧠 Sudoku Solver (JavaFX)
+# 🧠 Sudoku Solver (Backtracking Algorithm)
 
 A simple and interactive Sudoku Solver built using **Java 22** and **JavaFX**. This project allows users to input Sudoku puzzles through a graphical interface and solve them using a backtracking algorithm.
 
